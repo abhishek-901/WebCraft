@@ -58,7 +58,7 @@ This project is built with:
 
 
 
-## Can I connect a custom domain to my Lovable project?
+
 
 Yes, you can!
 
